@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    solr:
+      path: /search/**
+      url: http://www.google.com/search
